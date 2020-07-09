@@ -1,0 +1,49 @@
+body {
+    /* background-color: rgb(174, 220, 221);*/
+    background-image: url('https://www.thehillstimes.in/assets/resources/2020/06/1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-size: x-large;
+    font-weight: 500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.5rem;
+}
+
+.top-container {
+    padding-top: 0px;
+    position: relative;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    padding-bottom: 50px;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+table {
+    position: relative;
+    margin-top: -70px;
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 7px;
+}
+
+#butid {
+    width: 10em;
+    height: 2em;
+    color: blanchedalmond;
+    font-size: larger;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+#butid:hover {
+    background-color: rgba(0, 0, 0, 0.2);
+    ;
+}
+
+#form1 {
+    color: aliceblue;
+}
+
+td {
+    text-align: left;
+}
